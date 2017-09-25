@@ -5,6 +5,7 @@ Ahogy azt a kódból láthatod is, rendkívül egyszerű kis Node script szolgá
 Amit a működésről érdemes tudni:
 * Indításkor a data.json-ből tölti be azt a néhány adatot. Ezt majd később bővítem kicsit.
 * Az adatokkal memóriában dolgozik, nem menti őket se diskre, se adatbázisba. 
+* Lassúnak tűnhet a response, ez szándékos, van benne egy random 1-5 mp-es várakozás, így jobban lehet a loading animációkkal is dolgozni.
 * A képeket az ./uploads könyvtárba tölti fel. 
 
 Ennyi!
