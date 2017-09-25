@@ -1,0 +1,49 @@
+[
+  {
+    "id": "0",
+    "name": "Panificio il Basilico",
+    "short-desc":
+      "Forróság, mediterrán fűszerek illata és tömött sor fogadott minket az apró, ám annál nyüzsgőbb üzlethelyiségben.",
+    "image-url": "http://m.cdn.blog.hu/va/varosban/image/P1240324.JPG",
+    "user": {
+      "first-name": "Gábor",
+      "last-name": "Orosz"
+    },
+    "liked": true
+  },
+  {
+    "id": "1",
+    "name": "Holy Cow",
+    "short-desc":
+      "Szabadfi Szabolcs, a Panificio il Basilico tulajdonosa megtalálta az igazi játszóterét, és azonnal elnevezte Holy Cow-nak.",
+    "image-url": "http://www.diningguide.hu/wp-content/uploads/2016/10/holycow1-1024x624.jpg",
+    "user": {
+      "first-name": "András",
+      "last-name": "Kindler"
+    },
+    "liked": false
+  },
+  {
+    "id": "2",
+    "name": "Zing Burger",
+    "short-desc": "Tegnap egy megnyitón voltam az új, Nádor utcai Zingben.",
+    "image-url": "http://m.blog.hu/va/varosban/image/dsc00054.JPG",
+    "user": {
+      "first-name": "Adrián",
+      "last-name": "Bukros"
+    },
+    "liked": true
+  },
+  {
+    "id": "3",
+    "name": "Che Che Bistrocafe",
+    "short-desc":
+      "A 4-6-os villamoson kapaszkodva vagy a Teréz körúton sétálva már ti is könnyen kiszúrhattátok a Che Che Bistrocafe sárga színű cégérét.",
+    "image-url": "http://m.cdn.blog.hu/bu/burger/image2015/cheche/2015-09-15_18_08_01.jpg",
+    "user": {
+      "first-name": "Gyula",
+      "last-name": "Vörös"
+    },
+    "liked": false
+  }
+]

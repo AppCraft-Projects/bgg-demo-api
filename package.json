@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.15.4",
+    "cors": "2.8.3",
+    "body-parser": "1.18.2",
+    "multer": "1.3.0"
+  },
+  "name": "@appcraft/bgg-demo-api",
+  "version": "0.1.0",
+  "description": "Quick and dirty Node.js API for Android Refactor workshop",
+  "main": "server.js",
+  "repository": "TODO",
+  "author": "Gabor Orosz <gabor.orosz@appcraft.hu>",
+  "license": "MIT"
+}
